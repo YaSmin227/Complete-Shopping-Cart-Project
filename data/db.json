@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "brand": "Apple",
+            "desc": "6.1-inch display",
+            "price": 999,
+            "image": "https://m.media-amazon.com/images/I/71ZDY57yTQL._AC_SX569_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 12",
+            "brand": "Apple",
+            "desc": "5.4-inch mini display",
+            "price": 699,
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone14pro-202209_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1663611329204"
+        },
+        {
+            "id": 3,
+            "name": "Galaxy S",
+            "brand": "Samsung",
+            "desc": "6.5-inch display",
+            "price": 399,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwmgDxA10qNvJMB8A6HumgEIxLbx6EKZLbJQ&usqp=CAU"
+        }
+    ]
+}
